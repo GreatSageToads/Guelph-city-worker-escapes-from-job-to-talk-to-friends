@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5910214165715770896}
   - component: {fileID: 5910214165198728121}
   - component: {fileID: 5910214165198728122}
-  - component: {fileID: 5910214165198728127}
+  - component: {fileID: 5552623267085775602}
   m_Layer: 0
   m_Name: Prop_Barrier03
   m_TagString: Obstacle
@@ -63,7 +63,7 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.503459, y: 1.933264, z: 3.0883064}
   m_Center: {x: -0.04130602, y: 0.9488759, z: 0.0114097595}
---- !u!114 &5910214165198728127
+--- !u!114 &5552623267085775602
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -72,7 +72,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 5910214165716052528}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: db2b961e513012649b0e0ba46a8b1461, type: 3}
+  m_Script: {fileID: 11500000, guid: cc7610b3735f03648bc45b3cf5783c80, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &5910214165716052534
